@@ -1,0 +1,18 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "The Robot",
+    "image": "ipfs://QmVbHexTpL1PEAFDPh8qHMVZC7RgjNovQuyY4xMeBoiZo5",
+    "imageNew": "ipfs://QmdJpt57EE6k8KEL8DpTUWDNVi92XUKQifEfZnz62rr1r2",
+    "imageRE": "ipfs://Qmb37Zn2GLtAB6d8YAH1ngZx7YP9V3Ug9T4HNk5qhBjtib",
+    "name": "Avatar"
+  }
+  
